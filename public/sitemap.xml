@@ -1,65 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
-<url><loc>https://www.webd.one/PrivacyPolicy</loc><lastmod>2025-01-18T14:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://boltweb.co/PrivacyPolicy</loc><lastmod>2025-01-18T14:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://webd.one</loc><lastmod>2025-01-18T14:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 
 
-<url><loc>https://www.webd.one/UI/Hero</loc><lastmod>2025-01-18T14:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/UI/blog</loc><lastmod>2025-01-18T14:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://boltweb.co/UI/Hero</loc><lastmod>2025-01-18T14:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://boltweb.co/UI/blog</loc><lastmod>2025-01-18T14:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 
-<url><loc>https://www.webd.one/UI/footer</loc><lastmod>2025-01-18T14:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/RefundPolicy</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/UI/head</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/UI/support</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/UI/trend</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/TermsAndConditions</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/UI/web</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/AI-landing-page-generator</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/landing-page-ai</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/landing-page-ai-generator</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/ai-landing-page-builder</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/react-drag-and-drop</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/landing-page-ai-builder</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/create-landing-page-ai</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/Free-AI-landing-page-generator</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/how-to-start-a-business-online-with-no-money</loc><lastmod>2025-02-24T12:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/how-to-start-a-startup-online</loc><lastmod>2025-02-24T12:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/steps-to-start-startup</loc><lastmod>2025-02-24T12:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/How-to-build-a-startup-from-scratch</loc><lastmod>2025-02-24T12:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/how-to-start-a-business-online-in-uk</loc><lastmod>2025-02-24T12:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/generate-landing-page-with-ai</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/AI-landing-page-generator</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/landing-page-generator-ai</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/ai-generate-landing-page</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/How-to-create-landing-page-with-ai</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url> 
-<url><loc>https://www.webd.one/blog/landing-page-react</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/How-to-build-startup</loc><lastmod>2025-03-29T16:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/next-js-landing-page-template</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/next-js-landing-page-with-AI</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/improving-landing-page-performance</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/drag-and-drop-landing-page-builder</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/React-landing-page-builder</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/Best-free-AI-landing-page-generator</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/react-drag-and-drop-ui-builder</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/react-drag-and-drop-builder</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/ai-website-landing-page-generator</loc><lastmod>2025-01-29T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog/Drag-and-drop-react-landing-page-maker</loc><lastmod>2025-01-09T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/blog</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/documents/Assistant</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/documents/Auth-google</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/documents/mongodb-setup</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/documents/email-setup</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/documents/website-maker</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/documents/quickstart</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/documents</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/documents/walpaper</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/documents/stripe-setup</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/forgotpassword</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/login</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/passwordreset</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/pricing</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.webd.one/signup</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://boltweb.co/UI/footer</loc><lastmod>2025-01-18T14:30:00.341Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://boltweb.co/RefundPolicy</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://boltweb.co/UI/head</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://boltweb.co/UI/support</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://boltweb.co/UI/trend</loc><lastmod>2025-01-18T14:30:00.342Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+
 
 </urlset>
